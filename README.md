@@ -3,6 +3,9 @@
 Handle All Missing (Values) 
 
 [![Build Status](https://travis-ci.org/UBC-MDS/HAM_Python.svg?branch=master)](https://travis-ci.org/UBC-MDS/HAM_Python)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python version](https://img.shields.io/badge/Python-%3E%3D3-yellow.svg)](https://www.python.org/)
+
 
 ## Project contributors:
 
